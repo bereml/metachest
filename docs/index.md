@@ -25,24 +25,20 @@ The code to generate the dataset is available at its [repository](https://github
 [Creative Commons Attribution Non Commercial Share Alike 4.0 International CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 
-<!-- ## Citing
+## Citing
 If you find this work useful in your research, please consider citing.
 
 ```
-@article{Trailers12k-2023103343,
-title = {Improving Transfer Learning for Movie Trailer Genre Classification using a Dual Image and Video Transformer},
-journal = {Information Processing & Management},
-volume = {60},
-number = {3},
-pages = {103343},
-year = {2023},
-issn = {0306-4573},
-doi = {https://doi.org/10.1016/j.ipm.2023.103343},
-url = {https://www.sciencedirect.com/science/article/pii/S0306457323000808},
-author = {Ricardo Montalvo-Lezama and Berenice Montalvo-Lezama and Gibran Fuentes-Pineda},
-keywords = {Multi-label classification, Transfer learning, Trailers12k, Spatio-temporal analysis, Video analysis, Transformer model},
+@misc{montalvolezama2025metachestgeneralizedfewshotlearning,
+title={MetaChest: Generalized few-shot learning of patologies from chest X-rays}, 
+author={Berenice Montalvo-Lezama and Gibran Fuentes-Pineda},
+year={2025},
+eprint={2509.25590},
+archivePrefix={arXiv},
+primaryClass={cs.CV},
+url={https://arxiv.org/abs/2509.25590}, 
 }
-``` -->
+```
 
 
 ## People
